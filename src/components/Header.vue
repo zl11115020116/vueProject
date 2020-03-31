@@ -8,6 +8,7 @@
 				<ul>
 					<li>首页</li>
 					<li>影片</li>
+					<li>列表</li>		
 				</ul>
 			</div>
 		</transition>
